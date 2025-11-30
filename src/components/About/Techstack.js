@@ -18,7 +18,6 @@ import HTML from "../../Assets/TechIcons/HTML.svg";
 import CSS from "../../Assets/TechIcons/CSS.svg";
 import Express from "../../Assets/TechIcons/express (2).svg";
 import Angular from "../../Assets/TechIcons/Angular.svg";
-import SQLite from "../../Assets/TechIcons/SQLite.svg";
 import Canva from "../../Assets/TechIcons/canva copy.svg";
 
 function Techstack() {
