@@ -15,7 +15,6 @@
     "react-dom": "^17.0.2",
     "react-github-calendar": "^3.2.2",
     "react-icons": "^4.8.0",
-    "react-parallax-tilt": "^1.7.42",
     "react-pdf": "^5.7.1",
     "react-router-dom": "^6.2.2",
     "react-scripts": "5.0.0",
@@ -44,6 +43,7 @@
       "not dead",
       "not op_mini all"
     ],
+    "homepage": "https://rohansoni786.github.io/portfolio",
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
@@ -51,6 +51,11 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "gh-pages": "^6.3.0"
+  },
+  "engines": {
+    "node": "18.x",
+    "npm": "10.x"
   }
 }

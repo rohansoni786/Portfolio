@@ -9,7 +9,7 @@ import Typescript from "../../Assets/TechIcons/Typescript.svg";
 import ReactIcon from "../../Assets/TechIcons/React.svg";
 import Node from "../../Assets/TechIcons/Node.svg";
 import Mongo from "../../Assets/TechIcons/Mongo.svg";
-import SQL from "../../Assets/TechIcons/SQL.svg";
+import SQLite from "../../Assets/TechIcons/SQL.svg";
 import Tailwind from "../../Assets/TechIcons/Tailwind.svg";
 import MUI from "../../Assets/TechIcons/MUI.svg";
 
